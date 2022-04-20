@@ -1,4 +1,4 @@
-# Project6-Spring 2022
+# Project 6-Spring 2022
 Starter code for assignment
 
 **Programming Project 6 – Graph Methods Implementation**
